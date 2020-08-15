@@ -1,9 +1,6 @@
 # Getting-and-Cleaning-Data-Coursera
 
 This is the course project for the Getting and Cleaning Data Coursera course.
-The R script `run_analysis.R` can be used to create the data set. It retrieves the source data set and transforms it to produce the final data set by implementing the following steps (see the Code book for details, as well as the comments in the script itself):
-
-
 
 The R script, `run_analysis.R`, does the following:
 
